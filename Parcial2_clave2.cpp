@@ -1,4 +1,4 @@
-//codigo del menu
+//codigo de menu clave 2
 
 /*codigo creado por: Ulises Edgardo Coreas Huezo
 	
@@ -30,7 +30,7 @@ void random();	//variable para la funcion de los numeros randoms
 
 
 
-//Método  que me posiciona la flecha de la consola dadas 2 coordenadas.
+//MÃ©todo  que me posiciona la flecha de la consola dadas 2 coordenadas.
 	void gotoxy(int x,int y){ 
 		//Variable Coordenada que guarda las coordenadas donde esta la flecha.
 		COORD conCord;
